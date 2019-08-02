@@ -128,9 +128,9 @@ xMenu.Add("ScreenRTMenu"
 	,[["任务管理器","taskmgr"]
 	,["资源监视器","resmon"]
 	,["系统",,{"sub":"System"}]
-	,["猜猜第几周","D:\git\WeeksSchool\weeks\ncepuWeeks.vbs"]
-	,["课程表","D:\华北电力大学\课表2.png"]
-	,["值班表","D:\华北电力大学\值班表2.jpg"]
+	,["猜猜第几周","D:\git_rep\WeeksSchool\weeks\ncepuWeeks.vbs"]
+	,["课程表","D:\百度云同步盘\华北电力大学\课表2.png"]
+	,["世界地图","C:\Users\84629\Pictures\世界地图.jpg"]
 	,["截图","C:\WINDOWS\system32\SnippingTool.exe"]
 	,["重启资源管理器",".\commands\reexplorer.bat"]])
 

@@ -16,3 +16,39 @@ class User_WTYPC
 	}
 }
 
+
+class User_DESKTOP_ECD6QOL
+{
+	Ini()
+	{
+
+	}
+}
+
+
+class User_WTY_PC
+{
+	Ini()
+	{
+
+	}
+}
+
+
+class User_WTY_ACER
+{
+	Ini()
+	{
+
+	}
+}
+
+
+class User_DESKTOP_LIRLH48
+{
+	Ini()
+	{
+
+	}
+}
+
